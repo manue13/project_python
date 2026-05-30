@@ -1,0 +1,1025 @@
+zone,from,to,weight_km,feasible
+North,Z1_Depot,Z1_C1,5.835377,True
+North,Z1_Depot,Z1_C2,3.406567,True
+North,Z1_Depot,Z1_C3,7.2407,True
+North,Z1_Depot,Z1_C4,7.401082,True
+North,Z1_Depot,Z1_C5,3.3695,True
+North,Z1_Depot,Z1_C6,4.051031,True
+North,Z1_Depot,Z1_C7,6.228892,True
+North,Z1_Depot,Z1_C8,7.110515,True
+North,Z1_Depot,Z1_C9,4.790988,True
+North,Z1_Depot,Z1_C10,3.988904,True
+North,Z1_Depot,Z1_C11,1.545919,True
+North,Z1_Depot,Z1_C12,2.666095,True
+North,Z1_Depot,Z1_C13,4.554218,True
+North,Z1_Depot,Z1_C14,5.036581,True
+North,Z1_Depot,Z1_C15,5.493766,True
+North,Z1_Depot,Z1_C16,6.797522,True
+North,Z1_C1,Z1_C2,6.513262,True
+North,Z1_C1,Z1_C3,2.375047,True
+North,Z1_C1,Z1_C4,2.742191,True
+North,Z1_C1,Z1_C5,5.038544,True
+North,Z1_C1,Z1_C6,7.236084,True
+North,Z1_C1,Z1_C7,0.941498,True
+North,Z1_C1,Z1_C8,7.573073,True
+North,Z1_C1,Z1_C9,7.168079,True
+North,Z1_C1,Z1_C10,7.41893,True
+North,Z1_C1,Z1_C11,7.335232,True
+North,Z1_C1,Z1_C12,3.17097,True
+North,Z1_C1,Z1_C13,7.060169,True
+North,Z1_C1,Z1_C14,7.197676,True
+North,Z1_C1,Z1_C15,0.789606,True
+North,Z1_C1,Z1_C16,2.149329,True
+North,Z1_C2,Z1_C3,6.772676,True
+North,Z1_C2,Z1_C4,8.91527,True
+North,Z1_C2,Z1_C5,1.520979,True
+North,Z1_C2,Z1_C6,0.786837,True
+North,Z1_C2,Z1_C7,6.403213,True
+North,Z1_C2,Z1_C8,3.907017,True
+North,Z1_C2,Z1_C9,1.38662,True
+North,Z1_C2,Z1_C10,0.912061,True
+North,Z1_C2,Z1_C11,3.459554,True
+North,Z1_C2,Z1_C12,4.094019,True
+North,Z1_C2,Z1_C13,1.148588,True
+North,Z1_C2,Z1_C14,1.642314,True
+North,Z1_C2,Z1_C15,6.591433,True
+North,Z1_C2,Z1_C16,8.25473,True
+North,Z1_C3,Z1_C4,4.607591,True
+North,Z1_C3,Z1_C5,5.27099,True
+North,Z1_C3,Z1_C6,7.349443,True
+North,Z1_C3,Z1_C7,1.444413,True
+North,Z1_C3,Z1_C8,6.50347,True
+North,Z1_C3,Z1_C9,6.971004,True
+North,Z1_C3,Z1_C10,7.591914,True
+North,Z1_C3,Z1_C11,8.58241,True
+North,Z1_C3,Z1_C12,4.724362,True
+North,Z1_C3,Z1_C13,6.940174,True
+North,Z1_C3,Z1_C14,6.905688,True
+North,Z1_C3,Z1_C15,3.164349,True
+North,Z1_C3,Z1_C16,4.183389,True
+North,Z1_C4,Z1_C5,7.531197,True
+North,Z1_C4,Z1_C6,9.678592,True
+North,Z1_C4,Z1_C7,3.47289,True
+North,Z1_C4,Z1_C8,10.312212,True
+North,Z1_C4,Z1_C9,9.738001,True
+North,Z1_C4,Z1_C10,9.826404,True
+North,Z1_C4,Z1_C11,8.943934,True
+North,Z1_C4,Z1_C12,5.009769,True
+North,Z1_C4,Z1_C13,9.605436,True
+North,Z1_C4,Z1_C14,9.798201,True
+North,Z1_C4,Z1_C15,2.36018,True
+North,Z1_C4,Z1_C16,0.660722,True
+North,Z1_C5,Z1_C6,2.20076,True
+North,Z1_C5,Z1_C7,4.88739,True
+North,Z1_C5,Z1_C8,3.865806,True
+North,Z1_C5,Z1_C9,2.237144,True
+North,Z1_C5,Z1_C10,2.399534,True
+North,Z1_C5,Z1_C11,4.05123,True
+North,Z1_C5,Z1_C12,2.985484,True
+North,Z1_C5,Z1_C13,2.082869,True
+North,Z1_C5,Z1_C14,2.348288,True
+North,Z1_C5,Z1_C15,5.180377,True
+North,Z1_C5,Z1_C16,6.871548,True
+North,Z1_C6,Z1_C7,7.076733,True
+North,Z1_C6,Z1_C8,3.655282,True
+North,Z1_C6,Z1_C9,0.965552,True
+North,Z1_C6,Z1_C10,0.284664,True
+North,Z1_C6,Z1_C11,3.862425,True
+North,Z1_C6,Z1_C12,4.880564,True
+North,Z1_C6,Z1_C13,0.762139,True
+North,Z1_C6,Z1_C14,1.248906,True
+North,Z1_C6,Z1_C15,7.344814,True
+North,Z1_C6,Z1_C16,9.017872,True
+North,Z1_C7,Z1_C8,6.979528,True
+North,Z1_C7,Z1_C9,6.885253,True
+North,Z1_C7,Z1_C10,7.285994,True
+North,Z1_C7,Z1_C11,7.667953,True
+North,Z1_C7,Z1_C12,3.593856,True
+North,Z1_C7,Z1_C13,6.805818,True
+North,Z1_C7,Z1_C14,6.878819,True
+North,Z1_C7,Z1_C15,1.726255,True
+North,Z1_C7,Z1_C16,2.948378,True
+North,Z1_C8,Z1_C9,2.690038,True
+North,Z1_C8,Z1_C10,3.904399,True
+North,Z1_C8,Z1_C11,7.366218,True
+North,Z1_C8,Z1_C12,6.654174,True
+North,Z1_C8,Z1_C13,2.900718,True
+North,Z1_C8,Z1_C14,2.408023,True
+North,Z1_C8,Z1_C15,8.033644,True
+North,Z1_C8,Z1_C16,9.696716,True
+North,Z1_C9,Z1_C10,1.217916,True
+North,Z1_C9,Z1_C11,4.772357,True
+North,Z1_C9,Z1_C12,5.179425,True
+North,Z1_C9,Z1_C13,0.239381,True
+North,Z1_C9,Z1_C14,0.284205,True
+North,Z1_C9,Z1_C15,7.379314,True
+North,Z1_C9,Z1_C16,9.080632,True
+North,Z1_C10,Z1_C11,3.698332,True
+North,Z1_C10,Z1_C12,4.978348,True
+North,Z1_C10,Z1_C13,1.030473,True
+North,Z1_C10,Z1_C14,1.49707,True
+North,Z1_C10,Z1_C15,7.503477,True
+North,Z1_C10,Z1_C16,9.16594,True
+North,Z1_C11,Z1_C12,4.167722,True
+North,Z1_C11,Z1_C13,4.537072,True
+North,Z1_C11,Z1_C14,5.050244,True
+North,Z1_C11,Z1_C15,7.026273,True
+North,Z1_C11,Z1_C16,8.342821,True
+North,Z1_C12,Z1_C13,4.995558,True
+North,Z1_C12,Z1_C14,5.31978,True
+North,Z1_C12,Z1_C15,2.88681,True
+North,Z1_C12,Z1_C16,4.365199,True
+North,Z1_C13,Z1_C14,0.513331,True
+North,Z1_C13,Z1_C15,7.249415,True
+North,Z1_C13,Z1_C16,8.9468,True
+North,Z1_C14,Z1_C15,7.438031,True
+North,Z1_C14,Z1_C16,9.143071,True
+North,Z1_C15,Z1_C16,1.70698,True
+East,Z2_C1,Z2_C2,3.767913,True
+East,Z2_C1,Z2_C3,1.915156,True
+East,Z2_C1,Z2_C4,4.171864,True
+East,Z2_C1,Z2_C5,2.30852,True
+East,Z2_C1,Z2_C6,0.669514,True
+East,Z2_C1,Z2_C7,6.477741,True
+East,Z2_C1,Z2_C8,3.784206,True
+East,Z2_C1,Z2_C9,5.759153,True
+East,Z2_C1,Z2_C10,1.502073,True
+East,Z2_C1,Z2_C11,5.430701,True
+East,Z2_C1,Z2_C12,3.925434,True
+East,Z2_C1,Z2_C13,5.766167,True
+East,Z2_C1,Z2_C14,1.157866,True
+East,Z2_C1,Z2_C15,3.223501,True
+East,Z2_C1,Z2_C16,4.589547,True
+East,Z2_C2,Z2_C3,2.01427,True
+East,Z2_C2,Z2_C4,1.224552,True
+East,Z2_C2,Z2_C5,3.727157,True
+East,Z2_C2,Z2_C6,3.306808,True
+East,Z2_C2,Z2_C7,2.833348,True
+East,Z2_C2,Z2_C8,1.691243,True
+East,Z2_C2,Z2_C9,2.515829,True
+East,Z2_C2,Z2_C10,2.293574,True
+East,Z2_C2,Z2_C11,1.703365,True
+East,Z2_C2,Z2_C12,0.206985,True
+East,Z2_C2,Z2_C13,2.007809,True
+East,Z2_C2,Z2_C14,2.662055,True
+East,Z2_C2,Z2_C15,0.728847,True
+East,Z2_C2,Z2_C16,2.688799,True
+East,Z2_C3,Z2_C4,2.788447,True
+East,Z2_C3,Z2_C5,2.948119,True
+East,Z2_C3,Z2_C6,1.678516,True
+East,Z2_C3,Z2_C7,4.840346,True
+East,Z2_C3,Z2_C8,2.711551,True
+East,Z2_C3,Z2_C9,4.35552,True
+East,Z2_C3,Z2_C10,0.48121,True
+East,Z2_C3,Z2_C11,3.582115,True
+East,Z2_C3,Z2_C12,2.203046,True
+East,Z2_C3,Z2_C13,4.009292,True
+East,Z2_C3,Z2_C14,0.760108,True
+East,Z2_C3,Z2_C15,1.364518,True
+East,Z2_C3,Z2_C16,3.754599,True
+East,Z2_C4,Z2_C5,3.391675,True
+East,Z2_C4,Z2_C6,3.581508,True
+East,Z2_C4,Z2_C7,2.395475,True
+East,Z2_C4,Z2_C8,0.740921,True
+East,Z2_C4,Z2_C9,1.598752,True
+East,Z2_C4,Z2_C10,2.886769,True
+East,Z2_C4,Z2_C11,2.173143,True
+East,Z2_C4,Z2_C12,1.068761,True
+East,Z2_C4,Z2_C13,2.011235,True
+East,Z2_C4,Z2_C14,3.237073,True
+East,Z2_C4,Z2_C15,1.835153,True
+East,Z2_C4,Z2_C16,1.510175,True
+East,Z2_C5,Z2_C6,1.74914,True
+East,Z2_C5,Z2_C7,5.746004,True
+East,Z2_C5,Z2_C8,2.70975,True
+East,Z2_C5,Z2_C9,4.707839,True
+East,Z2_C5,Z2_C10,2.518391,True
+East,Z2_C5,Z2_C11,5.35388,True
+East,Z2_C5,Z2_C12,3.777963,True
+East,Z2_C5,Z2_C13,5.376388,True
+East,Z2_C5,Z2_C14,2.500151,True
+East,Z2_C5,Z2_C15,3.591573,True
+East,Z2_C5,Z2_C16,3.014516,True
+East,Z2_C6,Z2_C7,5.927812,True
+East,Z2_C6,Z2_C8,3.149125,True
+East,Z2_C6,Z2_C9,5.152915,True
+East,Z2_C6,Z2_C10,1.202074,True
+East,Z2_C6,Z2_C11,5.001299,True
+East,Z2_C6,Z2_C12,3.44525,True
+East,Z2_C6,Z2_C13,5.272966,True
+East,Z2_C6,Z2_C14,0.972538,True
+East,Z2_C6,Z2_C15,2.846273,True
+East,Z2_C6,Z2_C16,3.925545,True
+East,Z2_C7,Z2_C8,3.036307,True
+East,Z2_C7,Z2_C9,1.231468,True
+East,Z2_C7,Z2_C10,5.072345,True
+East,Z2_C7,Z2_C11,1.809213,True
+East,Z2_C7,Z2_C12,2.638531,True
+East,Z2_C7,Z2_C13,1.046811,True
+East,Z2_C7,Z2_C14,5.440492,True
+East,Z2_C7,Z2_C15,3.54129,True
+East,Z2_C7,Z2_C16,3.113958,True
+East,Z2_C8,Z2_C9,2.052891,True
+East,Z2_C8,Z2_C10,2.683687,True
+East,Z2_C8,Z2_C11,2.901911,True
+East,Z2_C8,Z2_C12,1.600983,True
+East,Z2_C8,Z2_C13,2.745942,True
+East,Z2_C8,Z2_C14,2.995942,True
+East,Z2_C8,Z2_C15,2.109628,True
+East,Z2_C8,Z2_C16,1.08342,True
+East,Z2_C9,Z2_C10,4.481918,True
+East,Z2_C9,Z2_C11,2.3185,True
+East,Z2_C9,Z2_C12,2.310395,True
+East,Z2_C9,Z2_C13,1.663204,True
+East,Z2_C9,Z2_C14,4.834726,True
+East,Z2_C9,Z2_C15,3.235486,True
+East,Z2_C9,Z2_C16,1.907749,True
+East,Z2_C10,Z2_C11,3.933408,True
+East,Z2_C10,Z2_C12,2.464322,True
+East,Z2_C10,Z2_C13,4.301099,True
+East,Z2_C10,Z2_C14,0.369415,True
+East,Z2_C10,Z2_C15,1.721582,True
+East,Z2_C10,Z2_C16,3.670708,True
+East,Z2_C11,Z2_C12,1.598601,True
+East,Z2_C11,Z2_C13,0.768826,True
+East,Z2_C11,Z2_C14,4.293906,True
+East,Z2_C11,Z2_C15,2.220241,True
+East,Z2_C11,Z2_C16,3.559932,True
+East,Z2_C12,Z2_C13,1.84104,True
+East,Z2_C12,Z2_C14,2.833617,True
+East,Z2_C12,Z2_C15,0.935512,True
+East,Z2_C12,Z2_C16,2.559421,True
+East,Z2_C13,Z2_C14,4.669776,True
+East,Z2_C13,Z2_C15,2.659577,True
+East,Z2_C13,Z2_C16,3.186199,True
+East,Z2_C14,Z2_C15,2.076964,True
+East,Z2_C14,Z2_C16,3.950915,True
+East,Z2_C15,Z2_C16,3.179555,True
+South-East,Z3_Depot,Z3_C1,2.130422,True
+South-East,Z3_Depot,Z3_C2,3.48077,True
+South-East,Z3_Depot,Z3_C3,3.702627,True
+South-East,Z3_Depot,Z3_C4,1.895043,True
+South-East,Z3_Depot,Z3_C5,3.473396,True
+South-East,Z3_Depot,Z3_C6,3.920417,True
+South-East,Z3_Depot,Z3_C7,0.979152,True
+South-East,Z3_Depot,Z3_C8,2.51207,True
+South-East,Z3_Depot,Z3_C9,3.62877,True
+South-East,Z3_Depot,Z3_C10,2.880902,True
+South-East,Z3_Depot,Z3_C11,1.990701,True
+South-East,Z3_Depot,Z3_C12,3.576,True
+South-East,Z3_Depot,Z3_C13,2.270967,True
+South-East,Z3_Depot,Z3_C14,2.115922,True
+South-East,Z3_Depot,Z3_C15,1.617454,True
+South-East,Z3_Depot,Z3_C16,1.738563,True
+South-East,Z3_C1,Z3_C2,5.092083,True
+South-East,Z3_C1,Z3_C3,3.371905,True
+South-East,Z3_C1,Z3_C4,3.368935,True
+South-East,Z3_C1,Z3_C5,5.122919,True
+South-East,Z3_C1,Z3_C6,5.977395,True
+South-East,Z3_C1,Z3_C7,2.955212,True
+South-East,Z3_C1,Z3_C8,2.743222,True
+South-East,Z3_C1,Z3_C9,2.640826,True
+South-East,Z3_C1,Z3_C10,3.820759,True
+South-East,Z3_C1,Z3_C11,0.845474,True
+South-East,Z3_C1,Z3_C12,5.667787,True
+South-East,Z3_C1,Z3_C13,2.644151,True
+South-East,Z3_C1,Z3_C14,1.7234,True
+South-East,Z3_C1,Z3_C15,3.482295,True
+South-East,Z3_C1,Z3_C16,3.561832,True
+South-East,Z3_C2,Z3_C3,7.138248,True
+South-East,Z3_C2,Z3_C4,1.725264,True
+South-East,Z3_C2,Z3_C5,0.118042,True
+South-East,Z3_C2,Z3_C6,2.118106,True
+South-East,Z3_C2,Z3_C7,2.531956,True
+South-East,Z3_C2,Z3_C8,5.898652,True
+South-East,Z3_C2,Z3_C9,7.102082,True
+South-East,Z3_C2,Z3_C10,1.76888,True
+South-East,Z3_C2,Z3_C11,4.443738,True
+South-East,Z3_C2,Z3_C12,2.269928,True
+South-East,Z3_C2,Z3_C13,5.646348,True
+South-East,Z3_C2,Z3_C14,3.77402,True
+South-East,Z3_C2,Z3_C15,1.888711,True
+South-East,Z3_C2,Z3_C16,1.755748,True
+South-East,Z3_C3,Z3_C4,5.596618,True
+South-East,Z3_C3,Z3_C5,7.1163,True
+South-East,Z3_C3,Z3_C6,7.032169,True
+South-East,Z3_C3,Z3_C7,4.608589,True
+South-East,Z3_C3,Z3_C8,1.260013,True
+South-East,Z3_C3,Z3_C9,1.1562,True
+South-East,Z3_C3,Z3_C10,6.507196,True
+South-East,Z3_C3,Z3_C11,4.127036,True
+South-East,Z3_C3,Z3_C12,6.587271,True
+South-East,Z3_C3,Z3_C13,1.511975,True
+South-East,Z3_C3,Z3_C14,4.905734,True
+South-East,Z3_C3,Z3_C15,5.249561,True
+South-East,Z3_C3,Z3_C16,5.383418,True
+South-East,Z3_C4,Z3_C5,1.753998,True
+South-East,Z3_C4,Z3_C6,2.996076,True
+South-East,Z3_C4,Z3_C7,1.119803,True
+South-East,Z3_C4,Z3_C8,4.4023,True
+South-East,Z3_C4,Z3_C9,5.444725,True
+South-East,Z3_C4,Z3_C10,1.16482,True
+South-East,Z3_C4,Z3_C11,2.75183,True
+South-East,Z3_C4,Z3_C12,2.857745,True
+South-East,Z3_C4,Z3_C13,4.157694,True
+South-East,Z3_C4,Z3_C14,2.181077,True
+South-East,Z3_C4,Z3_C15,0.741999,True
+South-East,Z3_C4,Z3_C16,0.657958,True
+South-East,Z3_C5,Z3_C6,2.000065,True
+South-East,Z3_C5,Z3_C7,2.515741,True
+South-East,Z3_C5,Z3_C8,5.87287,True
+South-East,Z3_C5,Z3_C9,7.099207,True
+South-East,Z3_C5,Z3_C10,1.862241,True
+South-East,Z3_C5,Z3_C11,4.487476,True
+South-East,Z3_C5,Z3_C12,2.154569,True
+South-East,Z3_C5,Z3_C13,5.62017,True
+South-East,Z3_C5,Z3_C14,3.832735,True
+South-East,Z3_C5,Z3_C15,1.869915,True
+South-East,Z3_C5,Z3_C16,1.740016,True
+South-East,Z3_C6,Z3_C7,3.022188,True
+South-East,Z3_C6,Z3_C8,5.786316,True
+South-East,Z3_C6,Z3_C9,7.335924,True
+South-East,Z3_C6,Z3_C10,3.664459,True
+South-East,Z3_C6,Z3_C11,5.560392,True
+South-East,Z3_C6,Z3_C12,0.471233,True
+South-East,Z3_C6,Z3_C13,5.543169,True
+South-East,Z3_C6,Z3_C14,5.14144,True
+South-East,Z3_C6,Z3_C15,2.550023,True
+South-East,Z3_C6,Z3_C16,2.510193,True
+South-East,Z3_C7,Z3_C8,3.377248,True
+South-East,Z3_C7,Z3_C9,4.602333,True
+South-East,Z3_C7,Z3_C10,2.259788,True
+South-East,Z3_C7,Z3_C11,2.592619,True
+South-East,Z3_C7,Z3_C12,2.723549,True
+South-East,Z3_C7,Z3_C13,3.126562,True
+South-East,Z3_C7,Z3_C14,2.377122,True
+South-East,Z3_C7,Z3_C15,0.646563,True
+South-East,Z3_C7,Z3_C16,0.776316,True
+South-East,Z3_C8,Z3_C9,1.753204,True
+South-East,Z3_C8,Z3_C10,5.373158,True
+South-East,Z3_C8,Z3_C11,3.345414,True
+South-East,Z3_C8,Z3_C12,5.346835,True
+South-East,Z3_C8,Z3_C13,0.253289,True
+South-East,Z3_C8,Z3_C14,4.008757,True
+South-East,Z3_C8,Z3_C15,4.012067,True
+South-East,Z3_C8,Z3_C16,4.147844,True
+South-East,Z3_C9,Z3_C10,6.200265,True
+South-East,Z3_C9,Z3_C11,3.471002,True
+South-East,Z3_C9,Z3_C12,6.921399,True
+South-East,Z3_C9,Z3_C13,1.933001,True
+South-East,Z3_C9,Z3_C14,4.324018,True
+South-East,Z3_C9,Z3_C15,5.245393,True
+South-East,Z3_C9,Z3_C16,5.367327,True
+South-East,Z3_C10,Z3_C11,3.044844,True
+South-East,Z3_C10,Z3_C12,3.654661,True
+South-East,Z3_C10,Z3_C13,5.139535,True
+South-East,Z3_C10,Z3_C14,2.235664,True
+South-East,Z3_C10,Z3_C15,1.887973,True
+South-East,Z3_C10,Z3_C16,1.780656,True
+South-East,Z3_C11,Z3_C12,5.30076,True
+South-East,Z3_C11,Z3_C13,3.200399,True
+South-East,Z3_C11,Z3_C14,0.880827,True
+South-East,Z3_C11,Z3_C15,3.012529,True
+South-East,Z3_C11,Z3_C16,3.066016,True
+South-East,Z3_C12,Z3_C13,5.106068,True
+South-East,Z3_C12,Z3_C14,4.944038,True
+South-East,Z3_C12,Z3_C15,2.321537,True
+South-East,Z3_C12,Z3_C16,2.305399,True
+South-East,Z3_C13,Z3_C14,3.831239,True
+South-East,Z3_C13,Z3_C15,3.760258,True
+South-East,Z3_C13,Z3_C16,3.896272,True
+South-East,Z3_C14,Z3_C15,2.624476,True
+South-East,Z3_C14,Z3_C16,2.640581,True
+South-East,Z3_C15,Z3_C16,0.139832,True
+Center,Z4_C1,Z4_C2,5.170108,True
+Center,Z4_C1,Z4_C3,3.889706,True
+Center,Z4_C1,Z4_C4,5.151695,True
+Center,Z4_C1,Z4_C5,1.816318,True
+Center,Z4_C1,Z4_C6,0.737101,True
+Center,Z4_C1,Z4_C7,3.127463,True
+Center,Z4_C1,Z4_C8,1.490738,True
+Center,Z4_C1,Z4_C9,3.754718,True
+Center,Z4_C1,Z4_C10,3.219048,True
+Center,Z4_C1,Z4_C11,2.699357,True
+Center,Z4_C1,Z4_C12,5.959596,True
+Center,Z4_C1,Z4_C13,3.003045,True
+Center,Z4_C1,Z4_C14,2.882685,True
+Center,Z4_C1,Z4_C15,2.347878,True
+Center,Z4_C1,Z4_C16,3.104392,True
+Center,Z4_C2,Z4_C3,4.61787,True
+Center,Z4_C2,Z4_C4,0.461119,True
+Center,Z4_C2,Z4_C5,4.955222,True
+Center,Z4_C2,Z4_C6,4.865314,True
+Center,Z4_C2,Z4_C7,2.670311,True
+Center,Z4_C2,Z4_C8,3.685606,True
+Center,Z4_C2,Z4_C9,3.690521,True
+Center,Z4_C2,Z4_C10,2.076772,True
+Center,Z4_C2,Z4_C11,4.566513,True
+Center,Z4_C2,Z4_C12,1.008396,True
+Center,Z4_C2,Z4_C13,2.927062,True
+Center,Z4_C2,Z4_C14,5.153983,True
+Center,Z4_C2,Z4_C15,3.38673,True
+Center,Z4_C2,Z4_C16,4.596356,True
+Center,Z4_C3,Z4_C4,4.935866,True
+Center,Z4_C3,Z4_C5,2.168886,True
+Center,Z4_C3,Z4_C6,3.153468,True
+Center,Z4_C3,Z4_C7,2.210045,True
+Center,Z4_C3,Z4_C8,3.267948,True
+Center,Z4_C3,Z4_C9,0.927394,True
+Center,Z4_C3,Z4_C10,3.026448,True
+Center,Z4_C3,Z4_C11,1.199137,True
+Center,Z4_C3,Z4_C12,4.756964,True
+Center,Z4_C3,Z4_C13,1.99858,True
+Center,Z4_C3,Z4_C14,1.302846,True
+Center,Z4_C3,Z4_C15,2.129413,True
+Center,Z4_C3,Z4_C16,0.798203,True
+Center,Z4_C4,Z4_C5,5.099217,True
+Center,Z4_C4,Z4_C6,4.909714,True
+Center,Z4_C4,Z4_C7,2.891823,True
+Center,Z4_C4,Z4_C8,3.689861,True
+Center,Z4_C4,Z4_C9,4.012008,True
+Center,Z4_C4,Z4_C10,2.209941,True
+Center,Z4_C4,Z4_C11,4.790566,True
+Center,Z4_C4,Z4_C12,1.380574,True
+Center,Z4_C4,Z4_C13,3.14909,True
+Center,Z4_C4,Z4_C14,5.383028,True
+Center,Z4_C4,Z4_C15,3.543033,True
+Center,Z4_C4,Z4_C16,4.854065,True
+Center,Z4_C5,Z4_C6,1.102817,True
+Center,Z4_C5,Z4_C7,2.351688,True
+Center,Z4_C5,Z4_C8,1.883567,True
+Center,Z4_C5,Z4_C9,2.302866,True
+Center,Z4_C5,Z4_C10,2.891493,True
+Center,Z4_C5,Z4_C11,0.982953,True
+Center,Z4_C5,Z4_C12,5.496229,True
+Center,Z4_C5,Z4_C13,2.118468,True
+Center,Z4_C5,Z4_C14,1.066503,True
+Center,Z4_C5,Z4_C15,1.568903,True
+Center,Z4_C5,Z4_C16,1.371686,True
+Center,Z4_C6,Z4_C7,2.578184,True
+Center,Z4_C6,Z4_C8,1.25726,True
+Center,Z4_C6,Z4_C9,3.054203,True
+Center,Z4_C6,Z4_C10,2.823168,True
+Center,Z4_C6,Z4_C11,1.962257,True
+Center,Z4_C6,Z4_C12,5.573226,True
+Center,Z4_C6,Z4_C13,2.41737,True
+Center,Z4_C6,Z4_C14,2.166,True
+Center,Z4_C6,Z4_C15,1.754255,True
+Center,Z4_C6,Z4_C16,2.367294,True
+Center,Z4_C7,Z4_C8,1.804583,True
+Center,Z4_C7,Z4_C9,1.387736,True
+Center,Z4_C7,Z4_C10,0.816488,True
+Center,Z4_C7,Z4_C11,1.90059,True
+Center,Z4_C7,Z4_C12,3.144781,True
+Center,Z4_C7,Z4_C13,0.25766,True
+Center,Z4_C7,Z4_C14,2.491915,True
+Center,Z4_C7,Z4_C15,0.837481,True
+Center,Z4_C7,Z4_C16,1.975286,True
+Center,Z4_C8,Z4_C9,2.807572,True
+Center,Z4_C8,Z4_C10,1.741428,True
+Center,Z4_C8,Z4_C11,2.275335,True
+Center,Z4_C8,Z4_C12,4.470136,True
+Center,Z4_C8,Z4_C13,1.758625,True
+Center,Z4_C8,Z4_C14,2.731259,True
+Center,Z4_C8,Z4_C15,1.218052,True
+Center,Z4_C8,Z4_C16,2.617206,True
+Center,Z4_C9,Z4_C10,2.186565,True
+Center,Z4_C9,Z4_C11,1.390582,True
+Center,Z4_C9,Z4_C12,3.853552,True
+Center,Z4_C9,Z4_C13,1.226392,True
+Center,Z4_C9,Z4_C14,1.813534,True
+Center,Z4_C9,Z4_C15,1.590108,True
+Center,Z4_C9,Z4_C16,1.15859,True
+Center,Z4_C10,Z4_C11,2.629581,True
+Center,Z4_C10,Z4_C12,2.753779,True
+Center,Z4_C10,Z4_C13,1.044113,True
+Center,Z4_C10,Z4_C14,3.222287,True
+Center,Z4_C10,Z4_C15,1.333602,True
+Center,Z4_C10,Z4_C16,2.756465,True
+Center,Z4_C11,Z4_C12,4.952295,True
+Center,Z4_C11,Z4_C13,1.64293,True
+Center,Z4_C11,Z4_C14,0.593665,True
+Center,Z4_C11,Z4_C15,1.378015,True
+Center,Z4_C11,Z4_C16,0.40517,True
+Center,Z4_C12,Z4_C13,3.383936,True
+Center,Z4_C12,Z4_C14,5.513743,True
+Center,Z4_C12,Z4_C15,3.950086,True
+Center,Z4_C12,Z4_C16,4.90138,True
+Center,Z4_C13,Z4_C14,2.234345,True
+Center,Z4_C13,Z4_C15,0.66344,True
+Center,Z4_C13,Z4_C16,1.723928,True
+Center,Z4_C14,Z4_C15,1.952379,True
+Center,Z4_C14,Z4_C16,0.654945,True
+Center,Z4_C15,Z4_C16,1.608512,True
+West,Z5_Depot,Z5_C1,2.014336,True
+West,Z5_Depot,Z5_C2,1.69038,True
+West,Z5_Depot,Z5_C3,0.834116,True
+West,Z5_Depot,Z5_C4,4.089046,True
+West,Z5_Depot,Z5_C5,1.074632,True
+West,Z5_Depot,Z5_C6,4.254828,True
+West,Z5_Depot,Z5_C7,2.305734,True
+West,Z5_Depot,Z5_C8,1.285022,True
+West,Z5_Depot,Z5_C9,2.60381,True
+West,Z5_Depot,Z5_C10,1.989823,True
+West,Z5_Depot,Z5_C11,4.331682,True
+West,Z5_Depot,Z5_C12,1.75415,True
+West,Z5_Depot,Z5_C13,2.37239,True
+West,Z5_Depot,Z5_C14,1.713175,True
+West,Z5_Depot,Z5_C15,1.314055,True
+West,Z5_Depot,Z5_C16,4.566443,True
+West,Z5_C1,Z5_C2,1.98276,True
+West,Z5_C1,Z5_C3,1.190893,True
+West,Z5_C1,Z5_C4,6.062316,True
+West,Z5_C1,Z5_C5,2.95873,True
+West,Z5_C1,Z5_C6,5.794001,True
+West,Z5_C1,Z5_C7,1.213945,True
+West,Z5_C1,Z5_C8,2.657209,True
+West,Z5_C1,Z5_C9,4.613475,True
+West,Z5_C1,Z5_C10,2.907531,True
+West,Z5_C1,Z5_C11,5.99154,True
+West,Z5_C1,Z5_C12,1.376661,True
+West,Z5_C1,Z5_C13,3.241514,True
+West,Z5_C1,Z5_C14,2.153953,True
+West,Z5_C1,Z5_C15,2.948567,True
+West,Z5_C1,Z5_C16,6.116608,True
+West,Z5_C2,Z5_C3,1.420016,True
+West,Z5_C2,Z5_C4,5.337392,True
+West,Z5_C2,Z5_C5,1.853675,True
+West,Z5_C2,Z5_C6,5.899643,True
+West,Z5_C2,Z5_C7,2.99246,True
+West,Z5_C2,Z5_C8,2.962332,True
+West,Z5_C2,Z5_C9,3.767599,True
+West,Z5_C2,Z5_C10,3.6077,True
+West,Z5_C2,Z5_C11,5.928343,True
+West,Z5_C2,Z5_C12,2.754175,True
+West,Z5_C2,Z5_C13,3.996342,True
+West,Z5_C2,Z5_C14,0.18107,True
+West,Z5_C2,Z5_C15,1.522435,True
+West,Z5_C2,Z5_C16,6.203751,True
+West,Z5_C3,Z5_C4,4.91783,True
+West,Z5_C3,Z5_C5,1.783205,True
+West,Z5_C3,Z5_C6,4.912954,True
+West,Z5_C3,Z5_C7,1.735857,True
+West,Z5_C3,Z5_C8,1.776547,True
+West,Z5_C3,Z5_C9,3.437601,True
+West,Z5_C3,Z5_C10,2.289252,True
+West,Z5_C3,Z5_C11,5.041807,True
+West,Z5_C3,Z5_C12,1.363856,True
+West,Z5_C3,Z5_C13,2.672949,True
+West,Z5_C3,Z5_C14,1.527934,True
+West,Z5_C3,Z5_C15,1.842278,True
+West,Z5_C3,Z5_C16,5.231733,True
+West,Z5_C4,Z5_C5,3.484098,True
+West,Z5_C4,Z5_C6,2.453312,True
+West,Z5_C4,Z5_C7,5.929897,True
+West,Z5_C4,Z5_C8,3.637458,True
+West,Z5_C4,Z5_C9,1.570091,True
+West,Z5_C4,Z5_C10,3.981034,True
+West,Z5_C4,Z5_C11,2.002271,True
+West,Z5_C4,Z5_C12,5.268564,True
+West,Z5_C4,Z5_C13,4.000866,True
+West,Z5_C4,Z5_C14,5.24462,True
+West,Z5_C4,Z5_C15,3.861814,True
+West,Z5_C4,Z5_C16,2.503283,True
+West,Z5_C5,Z5_C6,4.26662,True
+West,Z5_C5,Z5_C7,3.379096,True
+West,Z5_C5,Z5_C8,1.93633,True
+West,Z5_C5,Z5_C9,1.914906,True
+West,Z5_C5,Z5_C10,2.716531,True
+West,Z5_C5,Z5_C11,4.213799,True
+West,Z5_C5,Z5_C12,2.823752,True
+West,Z5_C5,Z5_C13,3.05714,True
+West,Z5_C5,Z5_C14,1.768041,True
+West,Z5_C5,Z5_C15,0.504712,True
+West,Z5_C5,Z5_C16,4.548746,True
+West,Z5_C6,Z5_C7,5.179308,True
+West,Z5_C6,Z5_C8,3.158543,True
+West,Z5_C6,Z5_C9,2.949248,True
+West,Z5_C6,Z5_C10,2.971645,True
+West,Z5_C6,Z5_C11,0.515629,True
+West,Z5_C6,Z5_C12,4.590323,True
+West,Z5_C6,Z5_C13,2.750609,True
+West,Z5_C6,Z5_C14,5.880045,True
+West,Z5_C6,Z5_C15,4.765608,True
+West,Z5_C6,Z5_C16,0.32262,True
+West,Z5_C7,Z5_C8,2.296761,True
+West,Z5_C7,Z5_C9,4.65773,True
+West,Z5_C7,Z5_C10,2.209478,True
+West,Z5_C7,Z5_C11,5.463924,True
+West,Z5_C7,Z5_C12,0.661452,True
+West,Z5_C7,Z5_C13,2.451833,True
+West,Z5_C7,Z5_C14,3.141193,True
+West,Z5_C7,Z5_C15,3.540983,True
+West,Z5_C7,Z5_C16,5.496896,True
+West,Z5_C8,Z5_C9,2.470961,True
+West,Z5_C8,Z5_C10,0.780235,True
+West,Z5_C8,Z5_C11,3.334765,True
+West,Z5_C8,Z5_C12,1.637326,True
+West,Z5_C8,Z5_C13,1.130863,True
+West,Z5_C8,Z5_C14,2.995627,True
+West,Z5_C8,Z5_C15,2.369952,True
+West,Z5_C8,Z5_C16,3.480018,True
+West,Z5_C9,Z5_C10,3.039697,True
+West,Z5_C9,Z5_C11,2.712082,True
+West,Z5_C9,Z5_C12,4.0058,True
+West,Z5_C9,Z5_C13,3.199293,True
+West,Z5_C9,Z5_C14,3.674718,True
+West,Z5_C9,Z5_C15,2.297512,True
+West,Z5_C9,Z5_C16,3.155444,True
+West,Z5_C10,Z5_C11,3.259105,True
+West,Z5_C10,Z5_C12,1.625047,True
+West,Z5_C10,Z5_C13,0.388662,True
+West,Z5_C10,Z5_C14,3.663451,True
+West,Z5_C10,Z5_C15,3.145112,True
+West,Z5_C10,Z5_C16,3.290572,True
+West,Z5_C11,Z5_C12,4.850917,True
+West,Z5_C11,Z5_C13,3.083723,True
+West,Z5_C11,Z5_C14,5.893116,True
+West,Z5_C11,Z5_C15,4.70087,True
+West,Z5_C11,Z5_C16,0.502275,True
+West,Z5_C12,Z5_C13,1.916019,True
+West,Z5_C12,Z5_C14,2.878282,True
+West,Z5_C12,Z5_C15,3.044154,True
+West,Z5_C12,Z5_C16,4.910756,True
+West,Z5_C13,Z5_C14,4.051519,True
+West,Z5_C13,Z5_C15,3.49996,True
+West,Z5_C13,Z5_C16,3.062649,True
+West,Z5_C14,Z5_C15,1.403365,True
+West,Z5_C14,Z5_C16,6.18081,True
+West,Z5_C15,Z5_C16,5.044848,True
+South-West,Z6_C1,Z6_C2,1.150765,True
+South-West,Z6_C1,Z6_C3,3.849589,True
+South-West,Z6_C1,Z6_C4,1.279181,True
+South-West,Z6_C1,Z6_C5,2.693089,True
+South-West,Z6_C1,Z6_C6,4.443268,True
+South-West,Z6_C1,Z6_C7,4.085311,True
+South-West,Z6_C1,Z6_C8,2.90383,True
+South-West,Z6_C1,Z6_C9,2.081155,True
+South-West,Z6_C1,Z6_C10,2.584995,True
+South-West,Z6_C1,Z6_C11,2.282205,True
+South-West,Z6_C1,Z6_C12,3.762369,True
+South-West,Z6_C1,Z6_C13,2.257409,True
+South-West,Z6_C1,Z6_C14,1.575798,True
+South-West,Z6_C1,Z6_C15,3.501775,True
+South-West,Z6_C1,Z6_C16,3.615851,True
+South-West,Z6_C2,Z6_C3,4.486206,True
+South-West,Z6_C2,Z6_C4,2.228435,True
+South-West,Z6_C2,Z6_C5,2.433276,True
+South-West,Z6_C2,Z6_C6,5.511744,True
+South-West,Z6_C2,Z6_C7,4.184651,True
+South-West,Z6_C2,Z6_C8,4.011858,True
+South-West,Z6_C2,Z6_C9,1.376659,True
+South-West,Z6_C2,Z6_C10,3.703492,True
+South-West,Z6_C2,Z6_C11,3.153558,True
+South-West,Z6_C2,Z6_C12,4.247857,True
+South-West,Z6_C2,Z6_C13,2.403956,True
+South-West,Z6_C2,Z6_C14,2.604875,True
+South-West,Z6_C2,Z6_C15,4.214441,True
+South-West,Z6_C2,Z6_C16,3.557571,True
+South-West,Z6_C3,Z6_C4,2.645587,True
+South-West,Z6_C3,Z6_C5,3.054667,True
+South-West,Z6_C3,Z6_C6,5.760789,True
+South-West,Z6_C3,Z6_C7,2.051393,True
+South-West,Z6_C3,Z6_C8,2.718323,True
+South-West,Z6_C3,Z6_C9,3.99232,True
+South-West,Z6_C3,Z6_C10,2.813798,True
+South-West,Z6_C3,Z6_C11,1.721651,True
+South-West,Z6_C3,Z6_C12,0.635191,True
+South-West,Z6_C3,Z6_C13,2.339335,True
+South-West,Z6_C3,Z6_C14,4.360091,True
+South-West,Z6_C3,Z6_C15,0.451251,True
+South-West,Z6_C3,Z6_C16,2.489269,True
+South-West,Z6_C4,Z6_C5,2.518417,True
+South-West,Z6_C4,Z6_C6,4.215088,True
+South-West,Z6_C4,Z6_C7,3.326484,True
+South-West,Z6_C4,Z6_C8,1.882797,True
+South-West,Z6_C4,Z6_C9,2.529821,True
+South-West,Z6_C4,Z6_C10,1.622982,True
+South-West,Z6_C4,Z6_C11,1.005616,True
+South-West,Z6_C4,Z6_C12,2.668112,True
+South-West,Z6_C4,Z6_C13,1.738287,True
+South-West,Z6_C4,Z6_C14,1.883964,True
+South-West,Z6_C4,Z6_C15,2.264326,True
+South-West,Z6_C4,Z6_C16,3.067115,True
+South-West,Z6_C5,Z6_C6,6.728277,True
+South-West,Z6_C5,Z6_C7,1.893515,True
+South-West,Z6_C5,Z6_C8,4.190665,True
+South-West,Z6_C5,Z6_C9,1.240651,True
+South-West,Z6_C5,Z6_C10,4.015395,True
+South-West,Z6_C5,Z6_C11,2.727547,True
+South-West,Z6_C5,Z6_C12,2.547914,True
+South-West,Z6_C5,Z6_C13,0.896552,True
+South-West,Z6_C5,Z6_C14,4.135147,True
+South-West,Z6_C5,Z6_C15,3.020768,True
+South-West,Z6_C5,Z6_C16,1.171762,True
+South-West,Z6_C6,Z6_C7,7.292462,True
+South-West,Z6_C6,Z6_C8,3.044424,True
+South-West,Z6_C6,Z6_C9,6.48298,True
+South-West,Z6_C6,Z6_C10,3.003202,True
+South-West,Z6_C6,Z6_C11,4.395982,True
+South-West,Z6_C6,Z6_C12,6.170609,True
+South-West,Z6_C6,Z6_C13,5.942964,True
+South-West,Z6_C6,Z6_C14,2.907282,True
+South-West,Z6_C6,Z6_C15,5.322127,True
+South-West,Z6_C6,Z6_C16,7.206005,True
+South-West,Z6_C7,Z6_C8,4.337527,True
+South-West,Z6_C7,Z6_C9,3.128788,True
+South-West,Z6_C7,Z6_C10,4.304085,True
+South-West,Z6_C7,Z6_C11,2.896502,True
+South-West,Z6_C7,Z6_C12,1.418549,True
+South-West,Z6_C7,Z6_C13,1.840296,True
+South-West,Z6_C7,Z6_C14,5.203498,True
+South-West,Z6_C7,Z6_C15,2.30344,True
+South-West,Z6_C7,Z6_C16,0.765348,True
+South-West,Z6_C8,Z6_C9,4.40331,True
+South-West,Z6_C8,Z6_C10,0.335025,True
+South-West,Z6_C8,Z6_C11,1.509958,True
+South-West,Z6_C8,Z6_C12,3.135856,True
+South-West,Z6_C8,Z6_C13,3.307272,True
+South-West,Z6_C8,Z6_C14,2.333317,True
+South-West,Z6_C8,Z6_C15,2.277811,True
+South-West,Z6_C8,Z6_C16,4.377963,True
+South-West,Z6_C9,Z6_C10,4.15275,True
+South-West,Z6_C9,Z6_C11,3.148141,True
+South-West,Z6_C9,Z6_C12,3.58645,True
+South-West,Z6_C9,Z6_C13,1.655635,True
+South-West,Z6_C9,Z6_C14,3.655308,True
+South-West,Z6_C9,Z6_C15,3.846836,True
+South-West,Z6_C9,Z6_C16,2.411619,True
+South-West,Z6_C10,Z6_C11,1.418679,True
+South-West,Z6_C10,Z6_C12,3.175682,True
+South-West,Z6_C10,Z6_C13,3.146997,True
+South-West,Z6_C10,Z6_C14,2.013272,True
+South-West,Z6_C10,Z6_C15,2.364425,True
+South-West,Z6_C10,Z6_C16,4.28631,True
+South-West,Z6_C11,Z6_C12,1.894653,True
+South-West,Z6_C11,Z6_C13,1.832159,True
+South-West,Z6_C11,Z6_C14,2.64121,True
+South-West,Z6_C11,Z6_C15,1.303119,True
+South-West,Z6_C11,Z6_C16,2.873718,True
+South-West,Z6_C12,Z6_C13,1.942125,True
+South-West,Z6_C12,Z6_C14,4.496568,True
+South-West,Z6_C12,Z6_C15,0.920521,True
+South-West,Z6_C12,Z6_C16,1.872231,True
+South-West,Z6_C13,Z6_C14,3.51135,True
+South-West,Z6_C13,Z6_C15,2.224614,True
+South-West,Z6_C13,Z6_C16,1.381086,True
+South-West,Z6_C14,Z6_C15,3.929314,True
+South-West,Z6_C14,Z6_C16,4.886379,True
+South-West,Z6_C15,Z6_C16,2.627142,True
+South,Z7_Depot,Z7_C1,2.589623,True
+South,Z7_Depot,Z7_C2,4.555558,True
+South,Z7_Depot,Z7_C3,1.131671,True
+South,Z7_Depot,Z7_C4,3.602466,True
+South,Z7_Depot,Z7_C5,2.727318,True
+South,Z7_Depot,Z7_C6,2.439855,True
+South,Z7_Depot,Z7_C7,1.96204,True
+South,Z7_Depot,Z7_C8,2.167867,True
+South,Z7_Depot,Z7_C9,1.498624,True
+South,Z7_Depot,Z7_C10,0.341697,True
+South,Z7_Depot,Z7_C11,1.521334,True
+South,Z7_Depot,Z7_C12,2.550751,True
+South,Z7_Depot,Z7_C13,1.94201,True
+South,Z7_Depot,Z7_C14,3.562872,True
+South,Z7_Depot,Z7_C15,3.211452,True
+South,Z7_Depot,Z7_C16,2.319593,True
+South,Z7_C1,Z7_C2,6.923314,True
+South,Z7_C1,Z7_C3,2.100369,True
+South,Z7_C1,Z7_C4,6.08241,True
+South,Z7_C1,Z7_C5,5.232543,True
+South,Z7_C1,Z7_C6,0.725429,True
+South,Z7_C1,Z7_C7,2.732232,True
+South,Z7_C1,Z7_C8,4.510864,True
+South,Z7_C1,Z7_C9,3.938727,True
+South,Z7_C1,Z7_C10,2.481652,True
+South,Z7_C1,Z7_C11,3.957845,True
+South,Z7_C1,Z7_C12,5.097929,True
+South,Z7_C1,Z7_C13,2.765133,True
+South,Z7_C1,Z7_C14,6.147289,True
+South,Z7_C1,Z7_C15,5.771832,True
+South,Z7_C1,Z7_C16,0.73408,True
+South,Z7_C2,Z7_C3,5.617161,True
+South,Z7_C2,Z7_C4,1.104775,True
+South,Z7_C2,Z7_C5,3.507807,True
+South,Z7_C2,Z7_C6,6.950897,True
+South,Z7_C2,Z7_C7,4.56678,True
+South,Z7_C2,Z7_C8,4.211969,True
+South,Z7_C2,Z7_C9,4.075385,True
+South,Z7_C2,Z7_C10,4.828896,True
+South,Z7_C2,Z7_C11,4.077989,True
+South,Z7_C2,Z7_C12,2.195108,True
+South,Z7_C2,Z7_C13,6.106243,True
+South,Z7_C2,Z7_C14,2.008603,True
+South,Z7_C2,Z7_C15,1.809703,True
+South,Z7_C2,Z7_C16,6.830662,True
+South,Z7_C3,Z7_C4,4.61334,True
+South,Z7_C3,Z7_C5,3.246205,True
+South,Z7_C3,Z7_C6,1.666159,True
+South,Z7_C3,Z7_C7,2.76742,True
+South,Z7_C3,Z7_C8,2.452081,True
+South,Z7_C3,Z7_C9,1.959563,True
+South,Z7_C3,Z7_C10,0.807673,True
+South,Z7_C3,Z7_C11,1.974684,True
+South,Z7_C3,Z7_C12,3.51518,True
+South,Z7_C3,Z7_C13,0.977324,True
+South,Z7_C3,Z7_C14,4.405509,True
+South,Z7_C3,Z7_C15,4.134446,True
+South,Z7_C3,Z7_C16,1.560625,True
+South,Z7_C4,Z7_C5,2.427697,True
+South,Z7_C4,Z7_C6,6.035213,True
+South,Z7_C4,Z7_C7,3.97417,True
+South,Z7_C4,Z7_C8,3.107798,True
+South,Z7_C4,Z7_C9,2.984219,True
+South,Z7_C4,Z7_C10,3.84747,True
+South,Z7_C4,Z7_C11,2.985687,True
+South,Z7_C4,Z7_C12,1.117805,True
+South,Z7_C4,Z7_C13,5.040979,True
+South,Z7_C4,Z7_C14,1.067479,True
+South,Z7_C4,Z7_C15,0.726125,True
+South,Z7_C4,Z7_C16,5.914608,True
+South,Z7_C5,Z7_C6,4.905475,True
+South,Z7_C5,Z7_C7,4.230845,True
+South,Z7_C5,Z7_C8,0.902914,True
+South,Z7_C5,Z7_C9,1.297503,True
+South,Z7_C5,Z7_C10,2.758065,True
+South,Z7_C5,Z7_C11,1.279763,True
+South,Z7_C5,Z7_C12,1.604262,True
+South,Z7_C5,Z7_C13,3.232989,True
+South,Z7_C5,Z7_C14,1.597354,True
+South,Z7_C5,Z7_C15,1.703211,True
+South,Z7_C5,Z7_C16,4.795278,True
+South,Z7_C6,Z7_C7,3.091339,True
+South,Z7_C6,Z7_C8,4.117424,True
+South,Z7_C6,Z7_C9,3.611415,True
+South,Z7_C6,Z7_C10,2.244255,True
+South,Z7_C6,Z7_C11,3.627921,True
+South,Z7_C6,Z7_C12,4.990181,True
+South,Z7_C6,Z7_C13,2.149607,True
+South,Z7_C6,Z7_C14,5.973793,True
+South,Z7_C6,Z7_C15,5.646731,True
+South,Z7_C6,Z7_C16,0.12062,True
+South,Z7_C7,Z7_C8,3.938355,True
+South,Z7_C7,Z7_C9,3.255771,True
+South,Z7_C7,Z7_C10,2.235442,True
+South,Z7_C7,Z7_C11,3.279075,True
+South,Z7_C7,Z7_C12,3.297656,True
+South,Z7_C7,Z7_C13,3.732892,True
+South,Z7_C7,Z7_C14,4.43537,True
+South,Z7_C7,Z7_C15,3.938077,True
+South,Z7_C7,Z7_C16,2.993425,True
+South,Z7_C8,Z7_C9,0.686914,True
+South,Z7_C8,Z7_C10,2.104491,True
+South,Z7_C8,Z7_C11,0.663402,True
+South,Z7_C8,Z7_C12,2.095031,True
+South,Z7_C8,Z7_C13,2.339409,True
+South,Z7_C8,Z7_C14,2.431302,True
+South,Z7_C8,Z7_C15,2.416485,True
+South,Z7_C8,Z7_C16,4.012697,True
+South,Z7_C9,Z7_C10,1.476667,True
+South,Z7_C9,Z7_C11,0.023513,True
+South,Z7_C9,Z7_C12,1.881653,True
+South,Z7_C9,Z7_C13,2.102141,True
+South,Z7_C9,Z7_C14,2.533483,True
+South,Z7_C9,Z7_C15,2.370589,True
+South,Z7_C9,Z7_C16,3.500214,True
+South,Z7_C10,Z7_C11,1.497412,True
+South,Z7_C10,Z7_C12,2.768916,True
+South,Z7_C10,Z7_C13,1.602359,True
+South,Z7_C10,Z7_C14,3.72954,True
+South,Z7_C10,Z7_C15,3.412551,True
+South,Z7_C10,Z7_C16,2.126048,True
+South,Z7_C11,Z7_C12,1.884989,True
+South,Z7_C11,Z7_C13,2.107236,True
+South,Z7_C11,Z7_C14,2.526742,True
+South,Z7_C11,Z7_C15,2.368649,True
+South,Z7_C11,Z7_C16,3.516939,True
+South,Z7_C12,Z7_C13,3.92343,True
+South,Z7_C12,Z7_C14,1.139488,True
+South,Z7_C12,Z7_C15,0.679278,True
+South,Z7_C12,Z7_C16,4.870045,True
+South,Z7_C13,Z7_C14,4.631738,True
+South,Z7_C13,Z7_C15,4.463971,True
+South,Z7_C13,Z7_C16,2.080785,True
+South,Z7_C14,Z7_C15,0.5335,True
+South,Z7_C14,Z7_C16,5.85548,True
+South,Z7_C15,Z7_C16,5.527017,True
+South-East Outer,Z8_C1,Z8_C2,7.172344,True
+South-East Outer,Z8_C1,Z8_C3,5.951769,True
+South-East Outer,Z8_C1,Z8_C4,1.027961,True
+South-East Outer,Z8_C1,Z8_C5,1.371202,True
+South-East Outer,Z8_C1,Z8_C6,4.858523,True
+South-East Outer,Z8_C1,Z8_C7,1.144237,True
+South-East Outer,Z8_C1,Z8_C8,0.854674,True
+South-East Outer,Z8_C1,Z8_C9,3.05185,True
+South-East Outer,Z8_C1,Z8_C10,2.155691,True
+South-East Outer,Z8_C1,Z8_C11,0.72089,True
+South-East Outer,Z8_C1,Z8_C12,0.808622,True
+South-East Outer,Z8_C1,Z8_C13,0.774599,True
+South-East Outer,Z8_C1,Z8_C14,1.974592,True
+South-East Outer,Z8_C1,Z8_C15,3.692779,True
+South-East Outer,Z8_C1,Z8_C16,6.063871,True
+South-East Outer,Z8_C2,Z8_C3,3.55411,True
+South-East Outer,Z8_C2,Z8_C4,6.25133,True
+South-East Outer,Z8_C2,Z8_C5,5.916385,True
+South-East Outer,Z8_C2,Z8_C6,2.617244,True
+South-East Outer,Z8_C2,Z8_C7,6.050514,True
+South-East Outer,Z8_C2,Z8_C8,7.961597,True
+South-East Outer,Z8_C2,Z8_C9,4.664983,True
+South-East Outer,Z8_C2,Z8_C10,8.457522,True
+South-East Outer,Z8_C2,Z8_C11,7.587174,True
+South-East Outer,Z8_C2,Z8_C12,7.94262,True
+South-East Outer,Z8_C2,Z8_C13,7.903594,True
+South-East Outer,Z8_C2,Z8_C14,5.41899,True
+South-East Outer,Z8_C2,Z8_C15,4.62652,True
+South-East Outer,Z8_C2,Z8_C16,3.210592,True
+South-East Outer,Z8_C3,Z8_C4,4.928761,True
+South-East Outer,Z8_C3,Z8_C5,5.198243,True
+South-East Outer,Z8_C3,Z8_C6,1.983643,True
+South-East Outer,Z8_C3,Z8_C7,4.885537,True
+South-East Outer,Z8_C3,Z8_C8,6.49725,True
+South-East Outer,Z8_C3,Z8_C9,2.906187,True
+South-East Outer,Z8_C3,Z8_C10,6.342672,True
+South-East Outer,Z8_C3,Z8_C11,6.599123,True
+South-East Outer,Z8_C3,Z8_C12,6.747472,True
+South-East Outer,Z8_C3,Z8_C13,6.478292,True
+South-East Outer,Z8_C3,Z8_C14,3.993885,True
+South-East Outer,Z8_C3,Z8_C15,2.293758,True
+South-East Outer,Z8_C3,Z8_C16,0.352556,True
+South-East Outer,Z8_C4,Z8_C5,0.986299,True
+South-East Outer,Z8_C4,Z8_C6,3.861773,True
+South-East Outer,Z8_C4,Z8_C7,0.289854,True
+South-East Outer,Z8_C4,Z8_C8,1.719189,True
+South-East Outer,Z8_C4,Z8_C9,2.025428,True
+South-East Outer,Z8_C4,Z8_C10,2.475166,True
+South-East Outer,Z8_C4,Z8_C11,1.680308,True
+South-East Outer,Z8_C4,Z8_C12,1.834258,True
+South-East Outer,Z8_C4,Z8_C13,1.669719,True
+South-East Outer,Z8_C4,Z8_C14,0.946946,True
+South-East Outer,Z8_C4,Z8_C15,2.686297,True
+South-East Outer,Z8_C4,Z8_C16,5.036612,True
+South-East Outer,Z8_C5,Z8_C6,3.787146,True
+South-East Outer,Z8_C5,Z8_C7,0.722344,True
+South-East Outer,Z8_C5,Z8_C8,2.225381,True
+South-East Outer,Z8_C5,Z8_C9,2.374054,True
+South-East Outer,Z8_C5,Z8_C10,3.33789,True
+South-East Outer,Z8_C5,Z8_C11,1.671066,True
+South-East Outer,Z8_C5,Z8_C12,2.057216,True
+South-East Outer,Z8_C5,Z8_C13,2.14571,True
+South-East Outer,Z8_C5,Z8_C14,1.392932,True
+South-East Outer,Z8_C5,Z8_C15,3.134831,True
+South-East Outer,Z8_C5,Z8_C16,5.241463,True
+South-East Outer,Z8_C6,Z8_C7,3.714781,True
+South-East Outer,Z8_C6,Z8_C8,5.574694,True
+South-East Outer,Z8_C6,Z8_C9,2.072085,True
+South-East Outer,Z8_C6,Z8_C10,5.89461,True
+South-East Outer,Z8_C6,Z8_C11,5.390019,True
+South-East Outer,Z8_C6,Z8_C12,5.662295,True
+South-East Outer,Z8_C6,Z8_C13,5.529737,True
+South-East Outer,Z8_C6,Z8_C14,2.951141,True
+South-East Outer,Z8_C6,Z8_C15,2.026619,True
+South-East Outer,Z8_C6,Z8_C16,1.826005,True
+South-East Outer,Z8_C7,Z8_C8,1.912148,True
+South-East Outer,Z8_C7,Z8_C9,1.982577,True
+South-East Outer,Z8_C7,Z8_C10,2.757882,True
+South-East Outer,Z8_C7,Z8_C11,1.720133,True
+South-East Outer,Z8_C7,Z8_C12,1.947945,True
+South-East Outer,Z8_C7,Z8_C13,1.853081,True
+South-East Outer,Z8_C7,Z8_C14,0.898167,True
+South-East Outer,Z8_C7,Z8_C15,2.688559,True
+South-East Outer,Z8_C7,Z8_C16,4.973917,True
+South-East Outer,Z8_C8,Z8_C9,3.651866,True
+South-East Outer,Z8_C8,Z8_C10,1.550549,True
+South-East Outer,Z8_C8,Z8_C11,1.028611,True
+South-East Outer,Z8_C8,Z8_C12,0.604534,True
+South-East Outer,Z8_C8,Z8_C13,0.094879,True
+South-East Outer,Z8_C8,Z8_C14,2.62999,True
+South-East Outer,Z8_C8,Z8_C15,4.205203,True
+South-East Outer,Z8_C8,Z8_C16,6.642957,True
+South-East Outer,Z8_C9,Z8_C10,3.825052,True
+South-East Outer,Z8_C9,Z8_C11,3.69297,True
+South-East Outer,Z8_C9,Z8_C12,3.853671,True
+South-East Outer,Z8_C9,Z8_C13,3.622252,True
+South-East Outer,Z8_C9,Z8_C14,1.087863,True
+South-East Outer,Z8_C9,Z8_C15,0.774584,True
+South-East Outer,Z8_C9,Z8_C16,3.012384,True
+South-East Outer,Z8_C10,Z8_C11,2.566935,True
+South-East Outer,Z8_C10,Z8_C12,2.149153,True
+South-East Outer,Z8_C10,Z8_C13,1.637346,True
+South-East Outer,Z8_C10,Z8_C14,3.082755,True
+South-East Outer,Z8_C10,Z8_C15,4.126983,True
+South-East Outer,Z8_C10,Z8_C16,6.559973,True
+South-East Outer,Z8_C11,Z8_C12,0.511254,True
+South-East Outer,Z8_C11,Z8_C13,0.936456,True
+South-East Outer,Z8_C11,Z8_C14,2.605258,True
+South-East Outer,Z8_C11,Z8_C15,4.366583,True
+South-East Outer,Z8_C11,Z8_C16,6.693387,True
+South-East Outer,Z8_C12,Z8_C13,0.528526,True
+South-East Outer,Z8_C12,Z8_C14,2.78118,True
+South-East Outer,Z8_C12,Z8_C15,4.476298,True
+South-East Outer,Z8_C12,Z8_C16,6.865992,True
+South-East Outer,Z8_C13,Z8_C14,2.590107,True
+South-East Outer,Z8_C13,Z8_C15,4.188192,True
+South-East Outer,Z8_C13,Z8_C16,6.619458,True
+South-East Outer,Z8_C14,Z8_C15,1.794005,True
+South-East Outer,Z8_C14,Z8_C16,4.093063,True
+South-East Outer,Z8_C15,Z8_C16,2.462441,True

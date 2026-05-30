@@ -1,0 +1,133 @@
+id,x,y,type,zone
+Z1_Depot,10.0,18.5,depot,North
+Z1_C1,8.0253,13.0089,client,North
+Z1_C2,13.1012,17.0903,client,North
+Z1_C3,9.6411,11.2682,client,North
+Z1_C4,5.2919,12.7895,client,North
+Z1_C5,12.1487,15.9045,client,North
+Z1_C6,13.864,17.2833,client,North
+Z1_C7,8.7428,12.3993,client,North
+Z1_C8,15.5293,14.0294,client,North
+Z1_C9,14.3224,16.4335,client,North
+Z1_C10,13.8784,17.5676,client,North
+Z1_C11,10.8985,19.758,client,North
+Z1_C12,9.1639,15.9684,client,North
+Z1_C13,14.1235,16.5667,client,North
+Z1_C14,14.4788,16.1962,client,North
+Z1_C15,7.5069,13.6045,client,North
+Z1_C16,5.8777,13.0951,client,North
+Z2_C1,13.707,10.3899,client,East
+Z2_C2,17.4498,10.8242,client,East
+Z2_C3,15.5913,10.0475,client,East
+Z2_C4,17.5362,12.0457,client,East
+Z2_C5,14.198,12.6456,client,East
+Z2_C6,14.1438,10.8973,client,East
+Z2_C7,19.9267,12.2,client,East
+Z2_C8,16.8986,12.4231,client,East
+Z2_C9,18.9,12.88,client,East
+Z2_C10,15.2082,10.3387,client,East
+Z2_C11,19.1346,10.5734,client,East
+Z2_C12,17.5881,10.9782,client,East
+Z2_C13,19.4018,11.2943,client,East
+Z2_C14,14.8542,10.2331,client,East
+Z2_C15,16.9296,10.3137,client,East
+Z2_C16,17.0921,13.4891,client,East
+Z3_Depot,16.5,7.0,depot,South-East
+Z3_C1,15.1952,5.3159,client,South-East
+Z3_C2,19.9803,7.0572,client,South-East
+Z3_C3,12.8772,7.7647,client,South-East
+Z3_C4,18.3366,6.533,client,South-East
+Z3_C5,19.969,7.1747,client,South-East
+Z3_C6,19.7686,9.1647,client,South-East
+Z3_C7,17.4537,7.2218,client,South-East
+Z3_C8,14.1346,7.8458,client,South-East
+Z3_C9,12.8924,6.6086,client,South-East
+Z3_C10,19.0068,5.5803,client,South-East
+Z3_C11,16.0047,5.0719,client,South-East
+Z3_C12,19.301,9.2231,client,South-East
+Z3_C13,14.3876,7.8337,client,South-East
+Z3_C14,16.8718,4.917,client,South-East
+Z3_C15,18.1001,7.2363,client,South-East
+Z3_C16,18.229,7.1821,client,South-East
+Z4_C1,7.1169,10.7164,client,Center
+Z4_C2,12.2723,10.3267,client,Center
+Z4_C3,8.8451,7.2317,client,Center
+Z4_C4,12.2681,10.7878,client,Center
+Z4_C5,7.5139,8.944,client,Center
+Z4_C6,7.4153,10.0424,client,Center
+Z4_C7,9.8517,9.1992,client,Center
+Z4_C8,8.5903,10.4897,client,Center
+Z4_C9,9.5388,7.8472,client,Center
+Z4_C10,10.2358,9.9197,client,Center
+Z4_C11,8.2069,8.2469,client,Center
+Z4_C12,12.9709,9.5995,client,Center
+Z4_C13,9.6286,9.0703,client,Center
+Z4_C14,7.726,7.8988,client,Center
+Z4_C15,9.0285,9.3532,client,Center
+Z4_C16,8.3807,7.8809,client,Center
+Z5_Depot,2.5,12.0,depot,West
+Z5_C1,0.497,11.7866,client,West
+Z5_C2,1.6026,13.4325,client,West
+Z5_C3,1.666,12.0139,client,West
+Z5_C4,6.5486,11.4263,client,West
+Z5_C5,3.3087,12.7077,client,West
+Z5_C6,5.6525,9.1425,client,West
+Z5_C7,0.6785,10.5863,client,West
+Z5_C8,2.9651,10.8021,client,West
+Z5_C9,5.1035,12.0402,client,West
+Z5_C10,2.8183,10.0358,client,West
+Z5_C11,6.0317,9.4919,client,West
+Z5_C12,1.3315,10.6917,client,West
+Z5_C13,2.9532,9.6713,client,West
+Z5_C14,1.7486,13.5396,client,West
+Z5_C15,3.1019,13.1681,client,West
+Z5_C16,5.9409,8.9979,client,West
+Z6_C1,3.8851,5.2825,client,South-West
+Z6_C2,3.2083,4.3518,client,South-West
+Z6_C3,2.1216,8.7044,client,South-West
+Z6_C4,3.6401,6.538,client,South-West
+Z6_C5,1.2384,5.7802,client,South-West
+Z6_C6,7.7497,7.4751,client,South-West
+Z6_C7,0.4573,7.5051,client,South-West
+Z6_C8,4.7603,8.0513,client,South-West
+Z6_C9,1.8816,4.7193,client,South-West
+Z6_C10,4.7562,7.7163,client,South-West
+Z6_C11,3.3538,7.502,client,South-West
+Z6_C12,1.6341,8.2972,client,South-West
+Z6_C13,1.9095,6.3747,client,South-West
+Z6_C14,5.3735,5.8,client,South-West
+Z6_C15,2.5294,8.5112,client,South-West
+Z6_C16,0.5803,6.7497,client,South-West
+Z7_Depot,9.0,4.0,depot,South
+Z7_C1,6.5128,3.2789,client,South
+Z7_C2,12.166,7.2756,client,South
+Z7_C3,8.5867,2.9465,client,South
+Z7_C4,11.8362,6.2212,client,South
+Z7_C5,11.7197,3.7963,client,South
+Z7_C6,6.94,2.6926,client,South
+Z7_C7,7.9064,5.629,client,South
+Z7_C8,11.0233,3.2216,client,South
+Z7_C9,10.4397,3.5839,client,South
+Z7_C10,8.965,3.6601,client,South
+Z7_C11,10.4598,3.5717,client,South
+Z7_C12,11.1886,5.3101,client,South
+Z7_C13,8.9938,2.058,client,South
+Z7_C14,12.3275,5.2735,client,South
+Z7_C15,11.8422,5.4951,client,South
+Z7_C16,7.0367,2.7647,client,South
+Z8_C1,18.8882,1.2605,client,South-East Outer
+Z8_C2,11.7448,0.6168,client,South-East Outer
+Z8_C3,13.4702,3.724,client,South-East Outer
+Z8_C4,17.9182,1.6008,client,South-East Outer
+Z8_C5,17.6611,0.6486,client,South-East Outer
+Z8_C6,14.0633,1.8311,client,South-East Outer
+Z8_C7,17.7488,1.3656,client,South-East Outer
+Z8_C8,19.6358,1.6747,client,South-East Outer
+Z8_C9,16.0563,2.3981,client,South-East Outer
+Z8_C10,19.7926,3.2173,client,South-East Outer
+Z8_C11,19.3316,0.6921,client,South-East Outer
+Z8_C12,19.6744,1.0714,client,South-East Outer
+Z8_C13,19.5879,1.5928,client,South-East Outer
+Z8_C14,17.014,1.8821,client,South-East Outer
+Z8_C15,15.6683,3.0685,client,South-East Outer
+Z8_C16,13.2371,3.4595,client,South-East Outer
